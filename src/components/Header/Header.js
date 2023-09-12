@@ -7,7 +7,8 @@ const Header = () => {
             <Link to = "/home">Home</Link>
             <Link to="/about">About</Link>
             <Link to = "/contact">ContactUs</Link>
-            <Link to = "/friends">Freinds</Link>
+            <Link to = "/friends">Friends</Link>
+            <Link to = "/posts">Posts</Link>
         </div>
     );
 };
